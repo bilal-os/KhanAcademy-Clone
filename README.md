@@ -1,2 +1,1 @@
 # KhanAcademy-Clone
-HELLO THERE!
